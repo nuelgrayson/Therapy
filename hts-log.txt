@@ -1,0 +1,414 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 02 Jan 2024 09:03:17 at https://delogiswp.pixydrops.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://delogiswp.pixydrops.com/ -%L https://delogiswp.pixydrops.com/ -O1 "C:\Users\lenovo pc\Desktop\Emerge TechHub\Therapy Web App" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:03:18	Error: 	Could not include URL list: https://delogiswp.pixydrops.com/
+09:05:05	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703731035 (from https://delogiswp.pixydrops.com/)
+09:12:46	Error: 	"Not Found" (404) at link https://delogiswp.pixydrops.com/wp-content/plugins/delogis-addon/assets/vendors/images/icon/bx_loader.gif (from https://delogiswp.pixydrops.com/wp-content/plugins/delogis-addon/assets/vendors/bxslider/jquery.bxslider.css?ver=1682955174)
+09:12:46	Error: 	"Not Found" (404) at link https://delogiswp.pixydrops.com/wp-content/plugins/delogis-addon/assets/vendors/img/bx-slider/controls.png (from https://delogiswp.pixydrops.com/wp-content/plugins/delogis-addon/assets/vendors/bxslider/jquery.bxslider.css?ver=1682955174)
+09:12:46	Error: 	"Not Found" (404) at link https://delogiswp.pixydrops.com/wp-content/plugins/delogis-addon/assets/vendors/owl-carousel/owl.video.play.png (from https://delogiswp.pixydrops.com/wp-content/plugins/delogis-addon/assets/vendors/owl-carousel/owl.carousel.min.css?ver=1682955174)
+09:12:46	Error: 	"Not Found" (404) at link https://delogiswp.pixydrops.com/wp-content/plugins/delogis-addon/assets/vendors/timepicker/images/ui-icons_444444_256x240.png (from https://delogiswp.pixydrops.com/wp-content/plugins/delogis-addon/assets/vendors/timepicker/timePicker.css?ver=1687509198)
+09:12:49	Error: 	"Not Found" (404) at link https://delogiswp.pixydrops.com/wp-content/themes/images/loader.png (from https://delogiswp.pixydrops.com/wp-content/themes/delogis/style.css?ver=1703731035)
+09:12:49	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703731035 (from https://delogiswp.pixydrops.com/)
+09:12:50	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703856602 (from https://delogiswp.pixydrops.com/make-appointment/)
+09:12:50	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=38
+09:12:50	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=38 to https://delogiswp.pixydrops.com/make-appointment/
+09:12:50	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703746527 (from https://delogiswp.pixydrops.com/about/)
+09:12:50	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=19
+09:12:50	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=19 to https://delogiswp.pixydrops.com/about/
+09:12:50	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703829509 (from https://delogiswp.pixydrops.com/our-faqs/)
+09:12:50	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=468
+09:12:50	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=468 to https://delogiswp.pixydrops.com/our-faqs/
+09:12:54	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703856780 (from https://delogiswp.pixydrops.com/contact/)
+09:12:54	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=33
+09:12:54	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=33 to https://delogiswp.pixydrops.com/contact/
+09:12:55	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703764805 (from https://delogiswp.pixydrops.com/one-page-home-one/)
+09:12:55	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=1012
+09:12:55	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=1012 to https://delogiswp.pixydrops.com/one-page-home-one/
+09:12:56	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703828521 (from https://delogiswp.pixydrops.com/home-two/)
+09:12:56	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=120
+09:12:56	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=120 to https://delogiswp.pixydrops.com/home-two/
+09:13:16	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703917890 (from https://delogiswp.pixydrops.com/one-page-home-two/)
+09:13:16	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=1023
+09:13:16	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=1023 to https://delogiswp.pixydrops.com/one-page-home-two/
+09:13:17	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703731019 (from https://delogiswp.pixydrops.com/home-three/)
+09:13:17	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=270
+09:13:17	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=270 to https://delogiswp.pixydrops.com/home-three/
+09:13:17	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703770490 (from https://delogiswp.pixydrops.com/one-page-home-three/)
+09:13:17	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=1028
+09:13:17	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=1028 to https://delogiswp.pixydrops.com/one-page-home-three/
+09:13:18	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704092618 (from https://delogiswp.pixydrops.com/home-four/)
+09:13:18	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=932
+09:13:18	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=932 to https://delogiswp.pixydrops.com/home-four/
+09:13:18	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703833604 (from https://delogiswp.pixydrops.com/our-team/)
+09:13:18	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=396
+09:13:18	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=396 to https://delogiswp.pixydrops.com/our-team/
+09:13:19	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703830330 (from https://delogiswp.pixydrops.com/team-details/)
+09:13:19	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=21
+09:13:19	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=21 to https://delogiswp.pixydrops.com/team-details/
+09:13:19	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704182633 (from https://delogiswp.pixydrops.com/gallery/)
+09:13:19	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=412
+09:13:19	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=412 to https://delogiswp.pixydrops.com/gallery/
+09:13:20	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704182470 (from https://delogiswp.pixydrops.com/pricing/)
+09:13:20	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=427
+09:13:20	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=427 to https://delogiswp.pixydrops.com/pricing/
+09:13:20	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704182634 (from https://delogiswp.pixydrops.com/login/)
+09:13:20	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=750
+09:13:20	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=750 to https://delogiswp.pixydrops.com/login/
+09:13:30	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=762
+09:13:30	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=762 to https://delogiswp.pixydrops.com/error-page/
+09:13:30	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/home-one/
+09:13:30	Warning: 	File has moved from https://delogiswp.pixydrops.com/home-one/ to https://delogiswp.pixydrops.com/
+09:13:30	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703743643 (from https://delogiswp.pixydrops.com/services/)
+09:13:30	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=23
+09:13:30	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=23 to https://delogiswp.pixydrops.com/services/
+09:13:31	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703824363 (from https://delogiswp.pixydrops.com/dating-relationship/)
+09:13:31	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=25
+09:13:31	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=25 to https://delogiswp.pixydrops.com/dating-relationship/
+09:13:32	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703824867 (from https://delogiswp.pixydrops.com/self-esteem-issues/)
+09:13:32	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=870
+09:13:32	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=870 to https://delogiswp.pixydrops.com/self-esteem-issues/
+09:13:32	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703870895 (from https://delogiswp.pixydrops.com/family-psycology/)
+09:13:32	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=878
+09:13:32	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=878 to https://delogiswp.pixydrops.com/family-psycology/
+09:13:33	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704017867 (from https://delogiswp.pixydrops.com/career-counseling/)
+09:13:33	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=886
+09:13:33	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=886 to https://delogiswp.pixydrops.com/career-counseling/
+09:13:35	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704182637 (from https://delogiswp.pixydrops.com/anxiety-grief/)
+09:13:35	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=891
+09:13:35	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=891 to https://delogiswp.pixydrops.com/anxiety-grief/
+09:13:35	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703828506 (from https://delogiswp.pixydrops.com/young-adult-intensive/)
+09:13:35	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=897
+09:13:35	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=897 to https://delogiswp.pixydrops.com/young-adult-intensive/
+09:13:36	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703856754 (from https://delogiswp.pixydrops.com/case-one/)
+09:13:36	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=27
+09:13:36	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=27 to https://delogiswp.pixydrops.com/case-one/
+09:13:36	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703828516 (from https://delogiswp.pixydrops.com/case-two/)
+09:13:36	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=457
+09:13:36	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=457 to https://delogiswp.pixydrops.com/case-two/
+09:13:37	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703824447 (from https://delogiswp.pixydrops.com/case-details/)
+09:13:37	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=29
+09:13:37	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=29 to https://delogiswp.pixydrops.com/case-details/
+09:13:38	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703859943 (from https://delogiswp.pixydrops.com/delogis-shop/)
+09:15:10	Error: 	"Bad Request" (400) at link https://delogiswp.pixydrops.com/wp-admin/admin-ajax.php?action=rest-nonce (from https://delogiswp.pixydrops.com/delogis-shop/)
+09:15:14	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704182639 (from https://delogiswp.pixydrops.com/product/boss-sofa/)
+09:15:14	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=626
+09:15:14	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=626 to https://delogiswp.pixydrops.com/product/boss-sofa/
+09:15:27	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=10
+09:15:27	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=10 to https://delogiswp.pixydrops.com/delogis-cart/
+09:15:27	Warning: 	Found for https://delogiswp.pixydrops.com/delogis-cart/?remove_item=45645a27c4f1adc8a7a835976064a86d&_wpnonce=1e89e1735f
+09:15:27	Warning: 	File has moved from https://delogiswp.pixydrops.com/delogis-cart/?remove_item=45645a27c4f1adc8a7a835976064a86d&_wpnonce=1e89e1735f to http://delogiswp.pixydrops.com/delogis-cart/?auto_cart=Boss+Sofa&removed_item=1
+09:15:42	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704015807 (from https://delogiswp.pixydrops.com/blog/)
+09:15:42	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=775
+09:15:42	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=775 to https://delogiswp.pixydrops.com/blog/
+09:15:42	Error: 	"Not Found" (404) at link https://delogiswp.pixydrops.com/blog/blog-details.html (from https://delogiswp.pixydrops.com/blog/)
+09:15:53	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704182640 (from https://delogiswp.pixydrops.com/blog-sidebar/)
+09:16:16	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704182641 (from https://delogiswp.pixydrops.com/patient-led-advocacy-group-shares-patient-perspective/)
+09:16:17	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=717
+09:16:17	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=717 to https://delogiswp.pixydrops.com/patient-led-advocacy-group-shares-patient-perspective/
+09:16:17	Error: 	"Method Not Allowed" (405) at link https://delogiswp.pixydrops.com/xmlrpc.php (from https://delogiswp.pixydrops.com/patient-led-advocacy-group-shares-patient-perspective/)
+09:16:21	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704182654 (from https://delogiswp.pixydrops.com/see-what-is-anenergy-vampire-and-how-to-protect-yourself/)
+09:16:21	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=720
+09:16:21	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=720 to https://delogiswp.pixydrops.com/see-what-is-anenergy-vampire-and-how-to-protect-yourself/
+09:16:28	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704182655 (from https://delogiswp.pixydrops.com/5-things-to-remember-when-you-cant-take-it-anymore/)
+09:16:28	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=724
+09:16:28	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=724 to https://delogiswp.pixydrops.com/5-things-to-remember-when-you-cant-take-it-anymore/
+09:16:32	Error: 	"Not Found" (404) at link https://delogiswp.pixydrops.com/countdown.js (from https://delogiswp.pixydrops.com/wp-content/plugins/delogis-addon/assets/vendors/countdown/countdown.min.js?ver=1682955174)
+09:16:32	Error: 	"Not Found" (404) at link https://delogiswp.pixydrops.com/Trident/ (from https://delogiswp.pixydrops.com/wp-content/plugins/delogis-addon/assets/vendors/jarallax/jarallax.min.js?ver=1682955174)
+09:16:33	Error: 	"Not Found" (404) at link https://delogiswp.pixydrops.com/Edge/ (from https://delogiswp.pixydrops.com/wp-content/plugins/delogis-addon/assets/vendors/jarallax/jarallax.min.js?ver=1682955174)
+09:16:33	Error: 	"Not Found" (404) at link https://delogiswp.pixydrops.com/Gecko/ (from https://delogiswp.pixydrops.com/wp-content/plugins/delogis-addon/assets/vendors/swiper/swiper.min.js?ver=1682955174)
+09:16:33	Error: 	"Not Found" (404) at link https://delogiswp.pixydrops.com/Firefox/ (from https://delogiswp.pixydrops.com/wp-content/plugins/delogis-addon/assets/vendors/swiper/swiper.min.js?ver=1682955174)
+09:16:33	Error: 	"Not Found" (404) at link https://delogiswp.pixydrops.com/Version/ (from https://delogiswp.pixydrops.com/wp-content/plugins/delogis-addon/assets/vendors/swiper/swiper.min.js?ver=1682955174)
+09:16:33	Error: 	"Not Found" (404) at link https://delogiswp.pixydrops.com/version/ (from https://delogiswp.pixydrops.com/wp-content/plugins/delogis-addon/assets/vendors/swiper/swiper.min.js?ver=1682955174)
+09:16:33	Error: 	"Not Found" (404) at link https://delogiswp.pixydrops.com/-negative.svg (from https://delogiswp.pixydrops.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.18.1)
+09:16:33	Error: 	"Not Found" (404) at link https://delogiswp.pixydrops.com/OPR/ (from https://delogiswp.pixydrops.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.18.1)
+09:16:33	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703731035 (from https://delogiswp.pixydrops.com/)
+09:16:33	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703856602 (from https://delogiswp.pixydrops.com/make-appointment/)
+09:16:33	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703746527 (from https://delogiswp.pixydrops.com/about/)
+09:16:33	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703829509 (from https://delogiswp.pixydrops.com/our-faqs/)
+09:16:33	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703856780 (from https://delogiswp.pixydrops.com/contact/)
+09:16:33	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703764805 (from https://delogiswp.pixydrops.com/one-page-home-one/)
+09:16:33	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703828521 (from https://delogiswp.pixydrops.com/home-two/)
+09:16:34	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704182788 (from https://delogiswp.pixydrops.com/5-essential-tips-for-managing-overwhelming-situations/)
+09:16:34	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=736
+09:16:34	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=736 to https://delogiswp.pixydrops.com/5-essential-tips-for-managing-overwhelming-situations/
+09:16:42	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704182790 (from https://delogiswp.pixydrops.com/what-is-a-moral-compass-and-how-to-find-yours/)
+09:16:42	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=733
+09:16:42	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=733 to https://delogiswp.pixydrops.com/what-is-a-moral-compass-and-how-to-find-yours/
+09:16:46	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704182789 (from https://delogiswp.pixydrops.com/the-9-best-affordable-therapy-options-for-2023/)
+09:16:46	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=730
+09:16:46	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=730 to https://delogiswp.pixydrops.com/the-9-best-affordable-therapy-options-for-2023/
+09:16:52	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703917890 (from https://delogiswp.pixydrops.com/one-page-home-two/)
+09:16:52	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703731019 (from https://delogiswp.pixydrops.com/home-three/)
+09:16:52	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703770490 (from https://delogiswp.pixydrops.com/one-page-home-three/)
+09:16:52	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704092618 (from https://delogiswp.pixydrops.com/home-four/)
+09:16:52	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703833604 (from https://delogiswp.pixydrops.com/our-team/)
+09:16:52	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703830330 (from https://delogiswp.pixydrops.com/team-details/)
+09:16:52	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704182633 (from https://delogiswp.pixydrops.com/gallery/)
+09:16:52	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704182470 (from https://delogiswp.pixydrops.com/pricing/)
+09:16:53	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704182634 (from https://delogiswp.pixydrops.com/login/)
+09:16:53	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704182936 (from https://delogiswp.pixydrops.com/delogis-my-account/lost-password/)
+09:16:58	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=12
+09:16:58	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=12 to https://delogiswp.pixydrops.com/delogis-my-account/
+09:16:58	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703743643 (from https://delogiswp.pixydrops.com/services/)
+09:16:58	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703824363 (from https://delogiswp.pixydrops.com/dating-relationship/)
+09:16:58	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703824867 (from https://delogiswp.pixydrops.com/self-esteem-issues/)
+09:16:59	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703870895 (from https://delogiswp.pixydrops.com/family-psycology/)
+09:16:59	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704017867 (from https://delogiswp.pixydrops.com/career-counseling/)
+09:16:59	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704182637 (from https://delogiswp.pixydrops.com/anxiety-grief/)
+09:16:59	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703828506 (from https://delogiswp.pixydrops.com/young-adult-intensive/)
+09:16:59	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703856754 (from https://delogiswp.pixydrops.com/case-one/)
+09:16:59	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703828516 (from https://delogiswp.pixydrops.com/case-two/)
+09:16:59	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703824447 (from https://delogiswp.pixydrops.com/case-details/)
+09:16:59	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703859943 (from https://delogiswp.pixydrops.com/delogis-shop/)
+09:17:01	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183041 (from https://delogiswp.pixydrops.com/category/digestive-health/)
+09:17:01	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183042 (from https://delogiswp.pixydrops.com/category/physical-fitness/)
+09:17:02	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704049897 (from https://delogiswp.pixydrops.com/category/stress-management/)
+09:17:02	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183043 (from https://delogiswp.pixydrops.com/product/comfy-chair/)
+09:17:02	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=612
+09:17:02	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=612 to https://delogiswp.pixydrops.com/product/comfy-chair/
+09:17:12	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183044 (from https://delogiswp.pixydrops.com/product/long-chair/)
+09:17:12	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=618
+09:17:12	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=618 to https://delogiswp.pixydrops.com/product/long-chair/
+09:17:18	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183045 (from https://delogiswp.pixydrops.com/product/long-stool/)
+09:17:18	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=619
+09:17:18	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=619 to https://delogiswp.pixydrops.com/product/long-stool/
+09:17:19	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183046 (from https://delogiswp.pixydrops.com/product/office-chair/)
+09:17:19	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=627
+09:17:19	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=627 to https://delogiswp.pixydrops.com/product/office-chair/
+09:17:20	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183047 (from https://delogiswp.pixydrops.com/product/relax-chair/)
+09:17:20	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=616
+09:17:20	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=616 to https://delogiswp.pixydrops.com/product/relax-chair/
+09:17:21	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183048 (from https://delogiswp.pixydrops.com/product/round-chair-2/)
+09:17:21	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=609
+09:17:21	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=609 to https://delogiswp.pixydrops.com/product/round-chair-2/
+09:17:22	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=611
+09:17:22	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=611 to https://delogiswp.pixydrops.com/product/smart-chair/
+09:17:22	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183049 (from https://delogiswp.pixydrops.com/delogis-shop/?add-to-cart=611)
+09:17:22	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=613
+09:17:22	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=613 to https://delogiswp.pixydrops.com/product/sofa-chair/
+09:17:22	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183050 (from https://delogiswp.pixydrops.com/delogis-shop/page/2/)
+09:17:44	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/delogis-shop/page/1/
+09:17:44	Warning: 	File has moved from https://delogiswp.pixydrops.com/delogis-shop/page/1/ to https://delogiswp.pixydrops.com/delogis-shop/
+09:17:44	Error: 	"Not Found" (404) at link https://delogiswp.pixydrops.com/delogis-shop/$&/ (from https://delogiswp.pixydrops.com/wp-includes/js/dist/vendor/react.min.js?ver=18.2.0)
+09:17:44	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?elementor_library=tab-one
+09:17:44	Warning: 	File has moved from https://delogiswp.pixydrops.com/?elementor_library=tab-one to https://delogiswp.pixydrops.com
+09:17:46	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704182639 (from https://delogiswp.pixydrops.com/product/boss-sofa/)
+09:17:47	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183079 (from https://delogiswp.pixydrops.com/product-category/clothing/)
+09:18:04	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183080 (from https://delogiswp.pixydrops.com/product-category/clothing/tshirts/)
+09:18:13	Error: 	"No data (connection closed)" (-4) after 2 retries at link delogiswp.pixydrops.com/robots.txt (from https://delogiswp.pixydrops.com/delogis-cart/?remove_item=45645a27c4f1adc8a7a835976064a86d&_wpnonce=1e89e1735f)
+09:18:13	Warning: 	Retry after error -4 (No data (connection closed)) at link delogiswp.pixydrops.com/delogis-cart/?auto_cart=Boss+Sofa%26removed_item=1 (from https://delogiswp.pixydrops.com/delogis-cart/?remove_item=45645a27c4f1adc8a7a835976064a86d&_wpnonce=1e89e1735f)
+09:18:14	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183090 (from https://delogiswp.pixydrops.com/delogis-checkout/)
+09:18:14	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=11
+09:18:14	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=11 to https://delogiswp.pixydrops.com/delogis-checkout/
+09:18:14	Error: 	"Not Found" (404) at link https://delogiswp.pixydrops.com/?page_id=3 (from https://delogiswp.pixydrops.com/delogis-checkout/)
+09:18:14	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704015807 (from https://delogiswp.pixydrops.com/blog/)
+09:18:14	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183098 (from https://delogiswp.pixydrops.com/few-common-reasons-why-you-may-always-be-late/)
+09:18:14	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=727
+09:18:14	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=727 to https://delogiswp.pixydrops.com/few-common-reasons-why-you-may-always-be-late/
+09:18:53	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183099 (from https://delogiswp.pixydrops.com/blog/page/2/)
+09:18:53	Error: 	"Not Found" (404) at link https://delogiswp.pixydrops.com/blog/page/2/blog-details.html (from https://delogiswp.pixydrops.com/blog/page/2/)
+09:18:53	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/blog/page/1/
+09:18:53	Warning: 	File has moved from https://delogiswp.pixydrops.com/blog/page/1/ to https://delogiswp.pixydrops.com/blog/
+09:18:53	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704182640 (from https://delogiswp.pixydrops.com/blog-sidebar/)
+09:18:53	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183102 (from https://delogiswp.pixydrops.com/author/ethowpit/)
+09:18:56	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183109 (from https://delogiswp.pixydrops.com/blog-sidebar/page/2/)
+09:18:56	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183110 (from https://delogiswp.pixydrops.com/tag/addict/)
+09:18:57	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183111 (from https://delogiswp.pixydrops.com/tag/depression/)
+09:18:57	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183112 (from https://delogiswp.pixydrops.com/tag/psychology/)
+09:18:58	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183113 (from https://delogiswp.pixydrops.com/blog-sidebar/page/2/?sidebar=left-align)
+09:18:58	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704182641 (from https://delogiswp.pixydrops.com/patient-led-advocacy-group-shares-patient-perspective/)
+09:18:58	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183132 (from https://delogiswp.pixydrops.com/patient-led-advocacy-group-shares-patient-perspective/?replytocom=13)
+09:18:59	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704182654 (from https://delogiswp.pixydrops.com/see-what-is-anenergy-vampire-and-how-to-protect-yourself/)
+09:18:59	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183139 (from https://delogiswp.pixydrops.com/see-what-is-anenergy-vampire-and-how-to-protect-yourself/?replytocom=15)
+09:19:00	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183140 (from https://delogiswp.pixydrops.com/see-what-is-anenergy-vampire-and-how-to-protect-yourself/?replytocom=31)
+09:19:00	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704182655 (from https://delogiswp.pixydrops.com/5-things-to-remember-when-you-cant-take-it-anymore/)
+09:19:01	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183147 (from https://delogiswp.pixydrops.com/5-things-to-remember-when-you-cant-take-it-anymore/?replytocom=17)
+09:19:01	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703856602 (from https://delogiswp.pixydrops.com/make-appointment/)
+09:19:01	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703746527 (from https://delogiswp.pixydrops.com/about/)
+09:19:01	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703829509 (from https://delogiswp.pixydrops.com/our-faqs/)
+09:19:01	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703856780 (from https://delogiswp.pixydrops.com/contact/)
+09:19:01	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703764805 (from https://delogiswp.pixydrops.com/one-page-home-one/)
+09:19:01	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703828521 (from https://delogiswp.pixydrops.com/home-two/)
+09:19:01	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704182788 (from https://delogiswp.pixydrops.com/5-essential-tips-for-managing-overwhelming-situations/)
+09:19:02	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183182 (from https://delogiswp.pixydrops.com/5-essential-tips-for-managing-overwhelming-situations/?replytocom=25)
+09:19:02	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183183 (from https://delogiswp.pixydrops.com/5-essential-tips-for-managing-overwhelming-situations/?replytocom=28)
+09:19:02	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704182790 (from https://delogiswp.pixydrops.com/what-is-a-moral-compass-and-how-to-find-yours/)
+09:19:30	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183190 (from https://delogiswp.pixydrops.com/what-is-a-moral-compass-and-how-to-find-yours/?replytocom=23)
+09:19:30	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704182789 (from https://delogiswp.pixydrops.com/the-9-best-affordable-therapy-options-for-2023/)
+09:19:31	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183196 (from https://delogiswp.pixydrops.com/the-9-best-affordable-therapy-options-for-2023/?replytocom=22)
+09:19:32	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183198 (from https://delogiswp.pixydrops.com/the-9-best-affordable-therapy-options-for-2023/?replytocom=30)
+09:19:32	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703917890 (from https://delogiswp.pixydrops.com/one-page-home-two/)
+09:19:32	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703731019 (from https://delogiswp.pixydrops.com/home-three/)
+09:19:32	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703770490 (from https://delogiswp.pixydrops.com/one-page-home-three/)
+09:19:32	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704092618 (from https://delogiswp.pixydrops.com/home-four/)
+09:19:32	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703833604 (from https://delogiswp.pixydrops.com/our-team/)
+09:19:32	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703830330 (from https://delogiswp.pixydrops.com/team-details/)
+09:19:32	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704182633 (from https://delogiswp.pixydrops.com/gallery/)
+09:19:32	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704182470 (from https://delogiswp.pixydrops.com/pricing/)
+09:19:32	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704182634 (from https://delogiswp.pixydrops.com/login/)
+09:19:32	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704182936 (from https://delogiswp.pixydrops.com/delogis-my-account/lost-password/)
+09:19:33	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183207 (from https://delogiswp.pixydrops.com/delogis-my-account/)
+09:19:33	Warning: 	Found for https://delogiswp.pixydrops.com/delogis-cart/?undo_item=45645a27c4f1adc8a7a835976064a86d&_wpnonce=1e89e1735f
+09:19:33	Warning: 	File has moved from https://delogiswp.pixydrops.com/delogis-cart/?undo_item=45645a27c4f1adc8a7a835976064a86d&_wpnonce=1e89e1735f to http://delogiswp.pixydrops.com/delogis-my-account/
+09:19:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703743643 (from https://delogiswp.pixydrops.com/services/)
+09:19:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703824363 (from https://delogiswp.pixydrops.com/dating-relationship/)
+09:19:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703824867 (from https://delogiswp.pixydrops.com/self-esteem-issues/)
+09:19:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703870895 (from https://delogiswp.pixydrops.com/family-psycology/)
+09:19:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704017867 (from https://delogiswp.pixydrops.com/career-counseling/)
+09:19:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704182637 (from https://delogiswp.pixydrops.com/anxiety-grief/)
+09:19:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703828506 (from https://delogiswp.pixydrops.com/young-adult-intensive/)
+09:19:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703856754 (from https://delogiswp.pixydrops.com/case-one/)
+09:19:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703828516 (from https://delogiswp.pixydrops.com/case-two/)
+09:19:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703824447 (from https://delogiswp.pixydrops.com/case-details/)
+09:19:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1703859943 (from https://delogiswp.pixydrops.com/delogis-shop/)
+09:19:34	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183041 (from https://delogiswp.pixydrops.com/category/digestive-health/)
+09:19:34	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183042 (from https://delogiswp.pixydrops.com/category/physical-fitness/)
+09:19:34	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704049897 (from https://delogiswp.pixydrops.com/category/stress-management/)
+09:19:34	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183043 (from https://delogiswp.pixydrops.com/product/comfy-chair/)
+09:20:10	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183240 (from https://delogiswp.pixydrops.com/product-category/clothing/accessories/)
+09:20:31	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183044 (from https://delogiswp.pixydrops.com/product/long-chair/)
+09:20:32	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183249 (from https://delogiswp.pixydrops.com/product-category/music/)
+09:20:44	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183045 (from https://delogiswp.pixydrops.com/product/long-stool/)
+09:20:44	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183046 (from https://delogiswp.pixydrops.com/product/office-chair/)
+09:20:44	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183047 (from https://delogiswp.pixydrops.com/product/relax-chair/)
+09:20:44	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183048 (from https://delogiswp.pixydrops.com/product/round-chair-2/)
+09:20:45	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183049 (from https://delogiswp.pixydrops.com/delogis-shop/?add-to-cart=611)
+09:20:45	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183050 (from https://delogiswp.pixydrops.com/delogis-shop/page/2/)
+09:20:46	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183304 (from https://delogiswp.pixydrops.com/product/white-chair/)
+09:20:46	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=615
+09:20:46	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=615 to https://delogiswp.pixydrops.com/product/white-chair/
+09:20:51	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183306 (from https://delogiswp.pixydrops.com/delogis-shop/page/2/?add-to-cart=615)
+09:20:51	Warning: 	Moved Permanently for https://delogiswp.pixydrops.com/?p=617
+09:20:51	Warning: 	File has moved from https://delogiswp.pixydrops.com/?p=617 to https://delogiswp.pixydrops.com/product/wooden-stool/
+09:20:52	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183305 (from https://delogiswp.pixydrops.com/delogis-shop/page/2/?add-to-cart=617)
+09:20:55	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704182639 (from https://delogiswp.pixydrops.com/product/boss-sofa/)
+09:20:55	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183079 (from https://delogiswp.pixydrops.com/product-category/clothing/)
+09:20:55	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183317 (from https://delogiswp.pixydrops.com/product-category/clothing/?add-to-cart=626)
+09:20:55	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183318 (from https://delogiswp.pixydrops.com/product-category/clothing/?add-to-cart=612)
+09:20:56	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183319 (from https://delogiswp.pixydrops.com/product-category/clothing/?add-to-cart=627)
+09:20:57	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183320 (from https://delogiswp.pixydrops.com/product-category/clothing/?add-to-cart=613)
+09:20:57	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183322 (from https://delogiswp.pixydrops.com/product-category/clothing/?add-to-cart=615)
+09:20:57	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183080 (from https://delogiswp.pixydrops.com/product-category/clothing/tshirts/)
+09:20:58	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183326 (from https://delogiswp.pixydrops.com/product-category/clothing/tshirts/?add-to-cart=626)
+09:20:59	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183327 (from https://delogiswp.pixydrops.com/product-category/clothing/tshirts/?add-to-cart=617)
+09:20:59	Warning: 	Retry after error -4 (No data (connection closed)) at link delogiswp.pixydrops.com/delogis-cart/?auto_cart=Boss+Sofa%26removed_item=1 (from https://delogiswp.pixydrops.com/delogis-cart/?remove_item=45645a27c4f1adc8a7a835976064a86d&_wpnonce=1e89e1735f)
+09:20:59	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183090 (from https://delogiswp.pixydrops.com/delogis-checkout/)
+09:20:59	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704015807 (from https://delogiswp.pixydrops.com/blog/)
+09:20:59	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183098 (from https://delogiswp.pixydrops.com/few-common-reasons-why-you-may-always-be-late/)
+09:21:00	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183347 (from https://delogiswp.pixydrops.com/few-common-reasons-why-you-may-always-be-late/?replytocom=19)
+09:21:00	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183099 (from https://delogiswp.pixydrops.com/blog/page/2/)
+09:21:00	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704182640 (from https://delogiswp.pixydrops.com/blog-sidebar/)
+09:21:00	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183102 (from https://delogiswp.pixydrops.com/author/ethowpit/)
+09:21:01	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183357 (from https://delogiswp.pixydrops.com/author/ethowpit/page/2/)
+09:21:01	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183109 (from https://delogiswp.pixydrops.com/blog-sidebar/page/2/)
+09:21:01	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183110 (from https://delogiswp.pixydrops.com/tag/addict/)
+09:21:01	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183111 (from https://delogiswp.pixydrops.com/tag/depression/)
+09:21:02	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183112 (from https://delogiswp.pixydrops.com/tag/psychology/)
+09:21:02	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183113 (from https://delogiswp.pixydrops.com/blog-sidebar/page/2/?sidebar=left-align)
+09:21:02	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704182641 (from https://delogiswp.pixydrops.com/patient-led-advocacy-group-shares-patient-perspective/)
+09:21:02	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183132 (from https://delogiswp.pixydrops.com/patient-led-advocacy-group-shares-patient-perspective/?replytocom=13)
+09:21:02	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704182654 (from https://delogiswp.pixydrops.com/see-what-is-anenergy-vampire-and-how-to-protect-yourself/)
+09:21:02	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183139 (from https://delogiswp.pixydrops.com/see-what-is-anenergy-vampire-and-how-to-protect-yourself/?replytocom=15)
+09:21:02	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183140 (from https://delogiswp.pixydrops.com/see-what-is-anenergy-vampire-and-how-to-protect-yourself/?replytocom=31)
+09:21:02	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704182655 (from https://delogiswp.pixydrops.com/5-things-to-remember-when-you-cant-take-it-anymore/)
+09:21:02	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183147 (from https://delogiswp.pixydrops.com/5-things-to-remember-when-you-cant-take-it-anymore/?replytocom=17)
+09:21:02	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704182788 (from https://delogiswp.pixydrops.com/5-essential-tips-for-managing-overwhelming-situations/)
+09:21:02	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183182 (from https://delogiswp.pixydrops.com/5-essential-tips-for-managing-overwhelming-situations/?replytocom=25)
+09:21:02	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183183 (from https://delogiswp.pixydrops.com/5-essential-tips-for-managing-overwhelming-situations/?replytocom=28)
+09:21:03	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704182790 (from https://delogiswp.pixydrops.com/what-is-a-moral-compass-and-how-to-find-yours/)
+09:21:03	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183190 (from https://delogiswp.pixydrops.com/what-is-a-moral-compass-and-how-to-find-yours/?replytocom=23)
+09:21:03	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704182789 (from https://delogiswp.pixydrops.com/the-9-best-affordable-therapy-options-for-2023/)
+09:21:03	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183196 (from https://delogiswp.pixydrops.com/the-9-best-affordable-therapy-options-for-2023/?replytocom=22)
+09:21:03	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183198 (from https://delogiswp.pixydrops.com/the-9-best-affordable-therapy-options-for-2023/?replytocom=30)
+09:21:03	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704182936 (from https://delogiswp.pixydrops.com/delogis-my-account/lost-password/)
+09:21:03	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183207 (from https://delogiswp.pixydrops.com/delogis-my-account/)
+09:21:03	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183041 (from https://delogiswp.pixydrops.com/category/digestive-health/)
+09:21:03	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183042 (from https://delogiswp.pixydrops.com/category/physical-fitness/)
+09:21:03	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704049897 (from https://delogiswp.pixydrops.com/category/stress-management/)
+09:21:03	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183043 (from https://delogiswp.pixydrops.com/product/comfy-chair/)
+09:21:03	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183240 (from https://delogiswp.pixydrops.com/product-category/clothing/accessories/)
+09:21:46	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183430 (from https://delogiswp.pixydrops.com/product-category/clothing/accessories/?add-to-cart=612)
+09:21:47	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183432 (from https://delogiswp.pixydrops.com/product-category/clothing/accessories/?add-to-cart=627)
+09:21:49	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183431 (from https://delogiswp.pixydrops.com/product-category/clothing/accessories/?add-to-cart=611)
+09:21:49	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183044 (from https://delogiswp.pixydrops.com/product/long-chair/)
+09:21:49	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183249 (from https://delogiswp.pixydrops.com/product-category/music/)
+09:21:50	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183437 (from https://delogiswp.pixydrops.com/product-category/music/?add-to-cart=618)
+09:21:51	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183438 (from https://delogiswp.pixydrops.com/product-category/music/?add-to-cart=619)
+09:21:51	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183045 (from https://delogiswp.pixydrops.com/product/long-stool/)
+09:21:51	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183046 (from https://delogiswp.pixydrops.com/product/office-chair/)
+09:21:51	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183047 (from https://delogiswp.pixydrops.com/product/relax-chair/)
+09:21:51	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183048 (from https://delogiswp.pixydrops.com/product/round-chair-2/)
+09:21:51	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183049 (from https://delogiswp.pixydrops.com/delogis-shop/?add-to-cart=611)
+09:21:51	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183050 (from https://delogiswp.pixydrops.com/delogis-shop/page/2/)
+09:21:51	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183304 (from https://delogiswp.pixydrops.com/product/white-chair/)
+09:21:52	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704049896 (from https://delogiswp.pixydrops.com/product-category/clothing/hoodies/)
+09:22:05	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183306 (from https://delogiswp.pixydrops.com/delogis-shop/page/2/?add-to-cart=615)
+09:22:05	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183305 (from https://delogiswp.pixydrops.com/delogis-shop/page/2/?add-to-cart=617)
+09:22:05	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183079 (from https://delogiswp.pixydrops.com/product-category/clothing/)
+09:22:05	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183317 (from https://delogiswp.pixydrops.com/product-category/clothing/?add-to-cart=626)
+09:22:05	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183318 (from https://delogiswp.pixydrops.com/product-category/clothing/?add-to-cart=612)
+09:22:05	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183319 (from https://delogiswp.pixydrops.com/product-category/clothing/?add-to-cart=627)
+09:22:05	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183320 (from https://delogiswp.pixydrops.com/product-category/clothing/?add-to-cart=613)
+09:22:06	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183322 (from https://delogiswp.pixydrops.com/product-category/clothing/?add-to-cart=615)
+09:22:06	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183080 (from https://delogiswp.pixydrops.com/product-category/clothing/tshirts/)
+09:22:06	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183326 (from https://delogiswp.pixydrops.com/product-category/clothing/tshirts/?add-to-cart=626)
+09:22:06	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183327 (from https://delogiswp.pixydrops.com/product-category/clothing/tshirts/?add-to-cart=617)
+09:22:06	Error: 	"No data (connection closed)" (-4) after 2 retries at link delogiswp.pixydrops.com/delogis-cart/?auto_cart=Boss+Sofa%26removed_item=1 (from https://delogiswp.pixydrops.com/delogis-cart/?remove_item=45645a27c4f1adc8a7a835976064a86d&_wpnonce=1e89e1735f)
+09:22:06	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183090 (from https://delogiswp.pixydrops.com/delogis-checkout/)
+09:22:06	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183098 (from https://delogiswp.pixydrops.com/few-common-reasons-why-you-may-always-be-late/)
+09:22:06	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183347 (from https://delogiswp.pixydrops.com/few-common-reasons-why-you-may-always-be-late/?replytocom=19)
+09:22:06	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183099 (from https://delogiswp.pixydrops.com/blog/page/2/)
+09:22:06	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183102 (from https://delogiswp.pixydrops.com/author/ethowpit/)
+09:22:06	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183357 (from https://delogiswp.pixydrops.com/author/ethowpit/page/2/)
+09:22:06	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183109 (from https://delogiswp.pixydrops.com/blog-sidebar/page/2/)
+09:22:06	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183110 (from https://delogiswp.pixydrops.com/tag/addict/)
+09:22:06	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183111 (from https://delogiswp.pixydrops.com/tag/depression/)
+09:22:06	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183112 (from https://delogiswp.pixydrops.com/tag/psychology/)
+09:22:06	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183113 (from https://delogiswp.pixydrops.com/blog-sidebar/page/2/?sidebar=left-align)
+09:22:06	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183132 (from https://delogiswp.pixydrops.com/patient-led-advocacy-group-shares-patient-perspective/?replytocom=13)
+09:22:06	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183139 (from https://delogiswp.pixydrops.com/see-what-is-anenergy-vampire-and-how-to-protect-yourself/?replytocom=15)
+09:22:06	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183140 (from https://delogiswp.pixydrops.com/see-what-is-anenergy-vampire-and-how-to-protect-yourself/?replytocom=31)
+09:22:06	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183147 (from https://delogiswp.pixydrops.com/5-things-to-remember-when-you-cant-take-it-anymore/?replytocom=17)
+09:22:06	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183182 (from https://delogiswp.pixydrops.com/5-essential-tips-for-managing-overwhelming-situations/?replytocom=25)
+09:22:06	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183183 (from https://delogiswp.pixydrops.com/5-essential-tips-for-managing-overwhelming-situations/?replytocom=28)
+09:22:06	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183190 (from https://delogiswp.pixydrops.com/what-is-a-moral-compass-and-how-to-find-yours/?replytocom=23)
+09:22:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183196 (from https://delogiswp.pixydrops.com/the-9-best-affordable-therapy-options-for-2023/?replytocom=22)
+09:22:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183198 (from https://delogiswp.pixydrops.com/the-9-best-affordable-therapy-options-for-2023/?replytocom=30)
+09:22:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183207 (from https://delogiswp.pixydrops.com/delogis-my-account/)
+09:22:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183240 (from https://delogiswp.pixydrops.com/product-category/clothing/accessories/)
+09:22:07	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183430 (from https://delogiswp.pixydrops.com/product-category/clothing/accessories/?add-to-cart=612)
+09:22:07	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183432 (from https://delogiswp.pixydrops.com/product-category/clothing/accessories/?add-to-cart=627)
+09:22:07	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183431 (from https://delogiswp.pixydrops.com/product-category/clothing/accessories/?add-to-cart=611)
+09:22:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183249 (from https://delogiswp.pixydrops.com/product-category/music/)
+09:22:07	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183437 (from https://delogiswp.pixydrops.com/product-category/music/?add-to-cart=618)
+09:22:07	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183438 (from https://delogiswp.pixydrops.com/product-category/music/?add-to-cart=619)
+09:22:08	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183304 (from https://delogiswp.pixydrops.com/product/white-chair/)
+09:22:08	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704049896 (from https://delogiswp.pixydrops.com/product-category/clothing/hoodies/)
+09:22:08	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183651 (from https://delogiswp.pixydrops.com/product-category/clothing/hoodies/?add-to-cart=615)
+09:22:09	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183306 (from https://delogiswp.pixydrops.com/delogis-shop/page/2/?add-to-cart=615)
+09:22:09	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183305 (from https://delogiswp.pixydrops.com/delogis-shop/page/2/?add-to-cart=617)
+09:22:09	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183317 (from https://delogiswp.pixydrops.com/product-category/clothing/?add-to-cart=626)
+09:22:09	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183318 (from https://delogiswp.pixydrops.com/product-category/clothing/?add-to-cart=612)
+09:22:09	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183319 (from https://delogiswp.pixydrops.com/product-category/clothing/?add-to-cart=627)
+09:22:09	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183320 (from https://delogiswp.pixydrops.com/product-category/clothing/?add-to-cart=613)
+09:22:09	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183322 (from https://delogiswp.pixydrops.com/product-category/clothing/?add-to-cart=615)
+09:22:09	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183326 (from https://delogiswp.pixydrops.com/product-category/clothing/tshirts/?add-to-cart=626)
+09:22:09	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183327 (from https://delogiswp.pixydrops.com/product-category/clothing/tshirts/?add-to-cart=617)
+09:22:09	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183347 (from https://delogiswp.pixydrops.com/few-common-reasons-why-you-may-always-be-late/?replytocom=19)
+09:22:09	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183357 (from https://delogiswp.pixydrops.com/author/ethowpit/page/2/)
+09:22:09	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183430 (from https://delogiswp.pixydrops.com/product-category/clothing/accessories/?add-to-cart=612)
+09:22:09	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183432 (from https://delogiswp.pixydrops.com/product-category/clothing/accessories/?add-to-cart=627)
+09:22:09	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183431 (from https://delogiswp.pixydrops.com/product-category/clothing/accessories/?add-to-cart=611)
+09:22:09	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183437 (from https://delogiswp.pixydrops.com/product-category/music/?add-to-cart=618)
+09:22:09	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183438 (from https://delogiswp.pixydrops.com/product-category/music/?add-to-cart=619)
+09:22:09	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704049896 (from https://delogiswp.pixydrops.com/product-category/clothing/hoodies/)
+09:22:09	Warning: 	Retry after error -4 (No data (connection closed)) at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183651 (from https://delogiswp.pixydrops.com/product-category/clothing/hoodies/?add-to-cart=615)
+09:22:10	Error: 	"No data (connection closed)" (-4) after 2 retries at link cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1704183651 (from https://delogiswp.pixydrops.com/product-category/clothing/hoodies/?add-to-cart=615)
+
+HTTrack Website Copier/3.49-2 mirror complete in 18 minutes 52 seconds : 1588 links scanned, 1239 files written (92123065 bytes overall) [34187649 bytes received at 30201 bytes/sec], 72929274 bytes transferred using HTTP compression in 995 files, ratio 17%, 3.8 requests per connection
+(113 errors, 290 warnings, 0 messages)

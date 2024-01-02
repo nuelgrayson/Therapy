@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+delogiswp.pixydrops.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+delogiswp.pixydrops.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_99736be693f25d4776c3ed54329e62d7	t_c60b349fb9ef60dc5b83badb4e5776%7C%7C1704355439%7C%7C1704351839%7C%7Cc527730d2fab71b9d1dbffcc93116d89
+delogiswp.pixydrops.com	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+delogiswp.pixydrops.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	28ec5d3fb0409f19508bbd5ed074b4d9
+
